@@ -59,7 +59,7 @@ section {
 
 .background-img{
     display: block;
-    background:  url('/src/background_example.jpg');
+    background:  url('../src/background_example.jpg');
     background-repeat: no-repeat;
     opacity: 0.35; 
     background-size: cover;
