@@ -83,7 +83,7 @@ button:hover{
                             ". . .";  
     
     /* Background zone */
-    background: url('/src/background_example.jpg');
+    background: url('../src/background_example.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
